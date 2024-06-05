@@ -29,10 +29,3 @@ This project involves analyzing Zomato restaurant data to uncover insights regar
 - Mumbai and Bangalore tied for the highest average rating of 4.6
 - 7100 restaurants don’t have online delivery and only 2451 restaurants provide online delivery . We should focus on increasing the number of restaurants providing online delivery
 
-
-
-### Key Findings
-
-- The majority of Zomato-listed restaurants are located in India, followed by the United States.
-- Higher-rated restaurants generally receive more votes.
-- Specific cuisines are more prevalent in certain countries
