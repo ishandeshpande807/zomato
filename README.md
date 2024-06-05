@@ -1,9 +1,9 @@
 
 
-# supply chain-Dashboard
+# Zomato
 
 # Snapshot of Dashboard 
-![zomato dashboard](https://github.com/ishandeshpande807/zomato/assets/171331939/f3b388bb-7472-4f11-b5ff-4aefff22a259)
+![dashboard zomato](https://github.com/ishandeshpande807/zomato/assets/171331939/1d4d0c32-a621-4ea1-8396-f7006d36ab34)
 
 ## Project Description
 This project involves analyzing Zomato restaurant data to uncover insights regarding restaurant distribution, ratings, cuisines, and more using Excel, SQL, Tableau, and Power BI. The project encompasses data cleaning, exploratory data analysis (EDA), and visualization to derive actionable insights.
